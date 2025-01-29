@@ -10,7 +10,7 @@ Website of the Muay Thai and MMA Gym Siam May Xerez
 📦 Installation
 
 # Clone the repository
-git clone https://github.com/user/repository.git
+git clone https://github.com/benjamibono/siam-may-xerez.git
 cd repository
 
 # Install dependencies
@@ -29,5 +29,4 @@ Pull requests are welcome! Feel free to contribute to improve the project.
 
 This project has no specific license.
 
-🌎 Links
-	•	🌐 Live Demo
+🌐 [Live Demo](https://siammay.vercel.app "Official Website")
